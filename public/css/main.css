@@ -122,8 +122,9 @@ header .mainNav ul a {
   background-color: rgba(201, 178, 178, 0.5);
   text-align: center;
   color: white;
-  margin-bottom: 120px;
+  margin-bottom: 100px;
   margin-top: 60px;
+  font-size: 12px;
 }
 
 #box2 {
@@ -213,6 +214,9 @@ footer .copyright {
   .headings {
     margin-left: 20px;
   }
+  .text1 {
+    font-size: 16px;
+  }
 }
 
 @media screen and (min-width: 480px) {
@@ -250,6 +254,9 @@ footer .copyright {
   }
   .content2 img {
     margin-right: 20px;
+  }
+  .text1 {
+    font-size: 18px;
   }
 }
 
